@@ -1,0 +1,6 @@
+{
+  "name": "VayuMitra — Urban Air Quality Assistant",
+  "description": "Real-time global air quality monitoring, meteorological telemetry, predictive AQI forecasting, vulnerable-group health advisories, carbon footprint calculator, climate news, and community pollution reporting.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
